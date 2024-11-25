@@ -13,3 +13,4 @@
 **Modelos de serviço**
 - IaaS: Infraestrutura virtualizada.
 - PaaS: Plataforma para desenvolvimento.
+- SaaS: Softwares prontos, como Office 365
