@@ -5,3 +5,5 @@
 - Benefícios: Escalabilidade, agilidade, custo reduzido (CapEx vs OpEx).
 
 - Modelos de nuvem: Público, privado e híbrido.
+
+- Conceitos: Alta disponibilidade, escalabilidade, elasticidade e recuperação de desastres.
