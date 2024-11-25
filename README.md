@@ -7,3 +7,9 @@
 - Modelos de nuvem: Público, privado e híbrido.
 
 - Conceitos: Alta disponibilidade, escalabilidade, elasticidade e recuperação de desastres.
+
+- SLAs: Garantia de disponibilidade mínima por serviço.
+
+**Modelos de serviço**
+- IaaS: Infraestrutura virtualizada.
+- PaaS: Plataforma para desenvolvimento.
